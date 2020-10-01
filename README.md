@@ -1,2 +1,5 @@
 # Tesina_MML
-Tesina on MAGIC gamma dataset
+
+Analysis of MAGIC Gamma dataset. 
+
+More details at Gamma_dataset_report.pdf
